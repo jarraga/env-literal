@@ -1,5 +1,5 @@
 {
-  "name": "env-literal",
+  "name": "@jarraga/env-literal",
   "version": "1.0.0",
   "description": "Use nested environment variables, literal JS like",
   "main": "main.js",
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/jarraga/env-literal#readme",
   "dependencies": {
     "chalk": "^4.1.2"
-  }
+  },
+  "devDependencies": {}
 }
