@@ -1,0 +1,27 @@
+{
+  "name": "env-literal",
+  "version": "1.0.0",
+  "description": "Use nested environment variables, literal JS like",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarraga/env-literal.git"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "variables",
+    "nestes",
+    "literal"
+  ],
+  "author": "Jorge Arraga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarraga/env-literal/issues"
+  },
+  "homepage": "https://github.com/jarraga/env-literal#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
