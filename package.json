@@ -1,6 +1,6 @@
 {
   "name": "@jarraga/env-literal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use nested environment variables, literal JS like",
   "main": "main.js",
   "scripts": {},
