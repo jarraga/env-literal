@@ -1,5 +1,7 @@
 # 🪂 env-literal
 
+Based on https://www.npmjs.com/package/dotenv-expand
+
 This package iterates the variables of the process.env object, and parses them as if it were a literal javascript string, and injects them back into the same object
 
 For example:
