@@ -18,7 +18,7 @@ Unlike dotenv or dotenv-expand, variables are read directly from the system envi
 ## Usage: as soon as possible, run the function:
 
 ```javascript
-const envLiteral = require("env-literal");
+const envLiteral = require("@jarraga/env-literal");
 
 if (process.env.NODE_ENV === "production") {
   envLiteral(); // call envLiteral(true) for debugging
